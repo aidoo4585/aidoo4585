@@ -1,4 +1,4 @@
-### Hello there, my name is Kenneth - aka [Kenny]👋
+### Hello there, my name is Kenneth - aka Kenny👋
 ## I am a Son, Ghanian, Software Engineer, and a proud Nerd!!
 
 - 🌱 I’m currently learning everything 🤣
