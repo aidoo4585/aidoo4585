@@ -1,5 +1,5 @@
 ### Hello there, my name is Kenneth - aka Kenny👋
-## I am a Son, Ghanian, Software Engineer, and a proud Nerd!!
+## I am a Ghanian, Software Engineer, and a proud Nerd!!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
