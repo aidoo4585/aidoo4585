@@ -2,8 +2,8 @@
 ## I am a Ghanian, Software Engineer, and a proud Nerd!!
 
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 👯 I’m looking to collaborate on interesting projects that will aid in bolstering my technical knowledge 
+- 🥅 2023 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to try new things and am a very outgoing person 
 - 👋 I love anime: Naruto all time favourtie| Basketballl: I played pg| Music: Illmatic-Nas fav rap album 
 - 👀 I’m interested in taking on new software projects, in hopes of refining my coding albility and gaining experience.
