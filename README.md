@@ -1,11 +1,11 @@
 ### Hello there, my name is Kenneth - aka Kenny👋
-## I am a Ghanian, Software Engineer, and a proud Nerd!!
+## I am a Candian, Ghanian, Anime Lover, a Gym Enthusiast and a Software Engineer!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate on interesting projects that will aid in bolstering my technical knowledge 
 - 🥅 2023 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to try new things and am a very outgoing person 
-- 👋 I love anime: Naruto all time favourtie| Basketballl: I played pg| Music: Illmatic-Nas fav rap album 
+- 👋 I love anime: Naruto all time favourtie| Basketballl: I played point gaurd| Music: Illmatic-Nas is my most favourite rap album 
 - 👀 I’m interested in taking on new software projects, in hopes of refining my coding albility and gaining experience.
 - 🌱 I’m currently learning software engineering at the Unviersity of Western Ontario. 
 - 💞️ I’m looking to collaborate on any new or old software projects.
