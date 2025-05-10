@@ -1,14 +1,10 @@
-### Hello there, my name is Kenneth - aka Kenny👋
-## I am a Candian, Ghanian, Anime Lover, a Gym Enthusiast and a Software Engineer!
+### Hello there, my name is Kenneth Aidoo👋
+## I am a Software Engineer with 2 years of experience.
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate on interesting projects that will aid in bolstering my technical knowledge 
-- 🥅 2023 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to try new things and am a very outgoing person 
-- 👋 I love anime: Naruto all time favourtie| Basketballl: I played point gaurd| Music: Illmatic-Nas is my most favourite rap album 
-- 👀 I’m interested in taking on new software projects, in hopes of refining my coding albility and gaining experience.
-- 🌱 I’m currently learning software engineering at the Unviersity of Western Ontario. 
-- 💞️ I’m looking to collaborate on any new or old software projects.
+- 🌱 I view software engineering as, as a skill that can solve real world problems.  
+- 👯 I am looking to work on real use cases, and problem solve to meet the end users needs efficiectly and optmially 
+- 🥅 2025 Goals: Create a software business with real users, and learn how to consistently meets their needs
+- ⚡ Fun fact: All my kindergaten years were spend in Accra, Ghana 
 
 ---
 
