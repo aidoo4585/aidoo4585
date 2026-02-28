@@ -1,5 +1,5 @@
 ### Hello there, my name is Kenneth Aidoo👋
-## I am a Software Engineer with 2 years of experience.
+## I am a Software Engineer with 3 years of experience and I am building Live right now!
 
 - 🌱 I view software engineering as, as a skill that can solve real world problems.  
 - 👯 I am looking to work on real use cases, and problem solve to meet the end users needs efficiectly and optmially 
